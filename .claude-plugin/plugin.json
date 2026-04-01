@@ -1,0 +1,12 @@
+{
+  "name": "product-analyst",
+  "description": "Product analyst: structured requirements discovery, brainstorming, clarification, and PRD generation",
+  "version": "1.0.0",
+  "author": {
+    "name": "jxin"
+  },
+  "agents": [],
+  "skills": ["./skills/"],
+  "commands": ["./commands/"],
+  "hooks": "./hooks/hooks.json"
+}
